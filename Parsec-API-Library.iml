@@ -2,7 +2,7 @@
 <module type="Flex" version="4">
   <component name="FlexBuildConfigurationManager" active="Parsec-API-Library">
     <configurations>
-      <configuration name="Parsec-API-Library" pure-as="true" output-type="Library" output-file="Parsec-API-Library.swc" output-folder="$MODULE_DIR$/bin">
+      <configuration name="Parsec-API-Library" output-type="Library" output-file="Parsec-API-Library.swc" output-folder="$MODULE_DIR$/bin">
         <dependencies target-player="11.8">
           <entries>
             <entry module-name="Spicelib-Reflect-Library" build-configuration-name="Spicelib-Reflect-Library">

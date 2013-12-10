@@ -31,7 +31,6 @@
     <orderEntry type="library" exported="" name="flex_libs" level="project" />
     <orderEntry type="library" exported="" name="livecycle-libs" level="project" />
     <orderEntry type="library" exported="" name="libs" level="project" />
-    <orderEntry type="module" module-name="Spicelib-Reflect-Library" exported="" />
   </component>
 </module>
 

@@ -36,6 +36,7 @@ public class DestinationReadyMessage
     //--------------------------------------
     //  destination
     //--------------------------------------
+   [Selector]
     /**
      *  target destination for this message
      */

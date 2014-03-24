@@ -73,14 +73,26 @@ public /*abstract*/ class Destination
     //--------------------------------------------------------------------------
     
     //--------------------------------------
-    //  role
+    //  stringAddress
     //--------------------------------------
     
+    /**
+     *  @return destination address as string
+     */
+    public function get stringAddress():String
+    {
+        return this.toString();
+    }
+
+    //--------------------------------------
+    //  role
+    //--------------------------------------
+
     /**
      *  @private
      */
     private var _role:UserRole;
-    
+
     /**
      *  specifies if destination requires any specific role
      */

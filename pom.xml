@@ -75,6 +75,12 @@
          <version>3.0.0</version>
          <type>swc</type>
       </dependency>
+      <dependency>
+         <groupId>org.spicefactory.parsley.core</groupId>
+         <artifactId>Parsley-Core-Library</artifactId>
+         <version>3.0.0</version>
+         <type>swc</type>
+      </dependency>
    </dependencies>
 
    <build>

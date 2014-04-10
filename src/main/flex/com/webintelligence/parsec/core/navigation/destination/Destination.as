@@ -73,9 +73,21 @@ public /*abstract*/ class Destination
     //--------------------------------------------------------------------------
     
     //--------------------------------------
-    //  stringAddress
+    //  id
     //--------------------------------------
     
+    /**
+     *  @return destination id
+     */
+    public function get id():String
+    {
+        return _destinationId;
+    }
+
+    //--------------------------------------
+    //  stringAddress
+    //--------------------------------------
+
     /**
      *  @return destination address as string
      */
